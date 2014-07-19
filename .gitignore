@@ -2,3 +2,5 @@
 *.pyc
 .ipynb_checkpoints
 demo*
+mathfunc.dll
+mathfunc.c
